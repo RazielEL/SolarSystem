@@ -21,6 +21,11 @@ public class Main {
         FacX.radius = "5283759082857kmn";
         FacX.size = "999999km";
 
+        FeatureMoon Pandora = new FeatureMoon();
+        Pandora.colour = "grey";
+        Pandora.radius = " 200000";
+        Pandora.size = "big hellhole";
+
 
 
     }
